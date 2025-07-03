@@ -1,0 +1,212 @@
+[
+    {
+        "category": "Auto P3",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autoP3",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "disableRender",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "circleRendering",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "typeRendering",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "phase",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "sendMessages",
+                "value": true
+            },
+            {
+                "type": 5,
+                "name": "renderColor",
+                "value": [
+                    255,
+                    191,
+                    0,
+                    255
+                ]
+            },
+            {
+                "type": 6,
+                "name": "autoRouteSetup",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "debugMessages",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Blink",
+        "settings": [
+            {
+                "type": 6,
+                "name": "timerBalance",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "displayPackets",
+                "value": true
+            },
+            {
+                "type": 1,
+                "name": "removeAmount",
+                "value": 50
+            },
+            {
+                "type": 1,
+                "name": "removeInterval",
+                "value": 7
+            },
+            {
+                "type": 6,
+                "name": "balanceBoss",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "renderBlink",
+                "value": true
+            }
+        ]
+    },
+    {
+        "category": "Extra",
+        "settings": [
+            {
+                "type": 1,
+                "name": "hClipBoost",
+                "value": 12
+            },
+            {
+                "type": 6,
+                "name": "invWalk",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "lavaClipBlocks",
+                "value": 28
+            },
+            {
+                "type": 6,
+                "name": "bossClip",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "witherESP",
+                "value": true
+            },
+            {
+                "type": 5,
+                "name": "witherESPColor",
+                "value": [
+                    5,
+                    162,
+                    65,
+                    255
+                ]
+            },
+            {
+                "type": 6,
+                "name": "leapNotifier",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "vertJerry",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "zeroPingEtherwarp",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "keepMotion",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "packetlossDetector",
+                "value": true
+            }
+        ]
+    },
+    {
+        "category": "Auto Leap",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autoLeap",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "ee2Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "ee3Leap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "coreLeap",
+                "value": ""
+            },
+            {
+                "type": 4,
+                "name": "inCoreLeap",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "category": "Auto Blood",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autoBlood",
+                "value": true
+            },
+            {
+                "type": 4,
+                "name": "autoBloodWeapon",
+                "value": "hyperion"
+            },
+            {
+                "type": 1,
+                "name": "autoBloodYOffset",
+                "value": -0.21
+            },
+            {
+                "type": 1,
+                "name": "autoBloodKillTime",
+                "value": 0
+            }
+        ]
+    }
+]
